@@ -1,4 +1,4 @@
-PROJECT_NAME = "IA Arnold"
+PROJECT_NAME = "wave-viewer"
 OUTPUT_DIRECTORY = ./build/doc/
 EXTRACT_ALL = yes
 EXTRACT_PRIVATE = yes
